@@ -1,6 +1,13 @@
 # Happy-Toilet-System
 
-## developed by<br>
+## details<br>
+This System is developed for happier toilet experiences.<br>
+Sometimes, we experience annoying situation in the toilet <br>
+when there's not enough toilet paper <br>
+or forget that you put something on the shelf.<br>
+
+
+## used these<br>
 * Arduino Uno<br>
 * Ultrosonic sensor<br>
 * LED<br>
@@ -8,11 +15,6 @@
 * LDR sensor<br>
 * piezo buzer<br>
 
-## details<br>
-This System is developed for happier toilet experiences.<br>
-Sometimes, we experience annoying situation in the toilet <br>
-when there's not enough toilet paper <br>
-or forget that you put something on the shelf.<br>
 <br>
 ### 1. Toilet Paper<br>
 For this part, system gets distance from ultrasonic sensor to existing toilet paper.<br>
@@ -31,4 +33,4 @@ Because some people put something on the shelf before using the toilet.<br>
 However, if the person open the door without the thing he or she put on the shelf, then it makes noise.<br><br>
 
 This is all about this system!
-
+This was developed in coalamovement, Pusan National University, Republic of Korea!
