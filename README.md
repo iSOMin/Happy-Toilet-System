@@ -31,6 +31,6 @@ Important thing is that it works only when the door is being opened.<br>
 For example, if a person put something on the shelf before close the door, it doesn't make noise. 
 Because some people put something on the shelf before using the toilet.<br>
 However, if the person open the door without the thing he or she put on the shelf, then it makes noise.<br><br>
-
-This is all about this system!
-This was developed in coalamovement, Pusan National University, Republic of Korea!
+<br>
+This is all about this system!<br>
+And this was developed in coalamovement, Pusan National University, Republic of Korea!
