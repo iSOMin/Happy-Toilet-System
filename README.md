@@ -15,13 +15,13 @@ or forget that you put something on the shelf.<br>
 * LDR sensor<br>
 * piezo buzer<br>
 
-<br>
+
 ### 1. Toilet Paper<br>
 For this part, system gets distance from ultrasonic sensor to existing toilet paper.<br>
 If toilet paper is full, green color LED is on.<br>
 If toilet paper is enough, yellow color LED is on.<br>
 If there's a little toilet paper, red color LED is on.<br>
-<br>
+
 ### 2. Things on the Shelf<br>
 For this part, system gets LDR result.<br>
 If something is on the shelf, it prevents lazer to shoot LDR.<br>
